@@ -1,4 +1,4 @@
-# react-styleguidist Branding
+# [React Styleguidist](https://github.com/styleguidist/react-styleguidist) branding
 
 ## Logo
 
