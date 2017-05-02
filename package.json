@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/styleguidist/brand.git"
   },
-  "keywords": [],
+  "keywords": ["logo", "brand"],
   "author": "Andrey Okonetchnikov <andrey@okonet.ru>",
   "license": "Creative Commons Attribution 4.0 International License",
   "bugs": {
