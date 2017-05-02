@@ -7,8 +7,8 @@
 
 ## Logo with text
 
-![Logo](rs-logo-with-text.png)
-[SVG version](rs-logo-with-text.svg)
+![Logo](rs-logo-with-type.png)
+[SVG version](rs-logo-with-type.svg)
 
 ## Logo in circle (stickers!)
 
