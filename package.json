@@ -6,7 +6,8 @@
   "scripts": {
     "export": "sketchtool export artboards logo.sketch",
     "postexport": "npm run imagemin -- *.{svg,png}",
-    "imagemin": "imagemin --out-dir=. --plugin=pngquant --plugin=svgo"
+    "imagemin": "imagemin --out-dir=. --plugin=pngquant --plugin=svgo",
+    "precommit": "lint-staged"
   },
   "lint-staged": {
     "*.{svg,png}": [
