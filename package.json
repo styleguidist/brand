@@ -4,7 +4,15 @@
   "version": "1.0.0",
   "description": "Logo and all related brand materials",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "export": "sketchtool export artboards logo.sketch",
+    "postexport": "npm run imagemin -- *.{svg,png}",
+    "imagemin": "imagemin --out-dir=. --plugin=pngquant --plugin=svgo"
+  },
+  "lint-staged": {
+    "*.{svg,png}": [
+      "imagemin",
+      "git add"
+    ]
   },
   "repository": {
     "type": "git",
@@ -16,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/styleguidist/brand/issues"
   },
-  "homepage": "https://github.com/styleguidist/brand#readme"
+  "homepage": "https://github.com/styleguidist/brand#readme",
+  "devDependencies": {
+    "husky": "^0.13.3",
+    "imagemin-cli": "^3.0.0",
+    "imagemin-pngquant": "^5.0.0",
+    "lint-staged": "^3.4.1"
+  }
 }
