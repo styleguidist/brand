@@ -2,21 +2,31 @@
 
 ## Logo
 
+### Logo
+
 ![Logo](rs-logo.png)
 
-[SVG version](rs-logo.svg), [RawGit](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo.svg)
+[SVG](rs-logo.svg), [RawGit](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo.svg)
 
-## Logo with text
+### Logo with text
 
 ![Logo](rs-logo-with-type.png)
 
-[SVG version](rs-logo-with-type.svg), [RawGit](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-type.svg)
+[SVG](rs-logo-with-type.svg), [RawGit](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-type.svg)
 
-## Logo in circle (stickers!)
+### Logo in circle (stickers!)
 
 ![Logo with circle](rs-logo-with-background.png)
 
-[SVG version](rs-logo-with-background.svg), [RawGit](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background.svg)
+[SVG](rs-logo-with-background.svg), [RawGit](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background.svg)
+
+## Colors
+
+| Preview | Color |
+| ------- | ----- |
+| ![](http://www.thecolorapi.com/id?format=svg&named=false&&hex=25d8fc) | Primary, #25d8fc |
+| ![](http://www.thecolorapi.com/id?format=svg&named=false&hex=19a1bc) | Secondary, #19a1bc |
+| ![](http://www.thecolorapi.com/id?format=svg&named=false&hex=073949) | Base, #073949 |
 
 ---
 
