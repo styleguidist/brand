@@ -18,7 +18,9 @@
 
 ![Logo with circle](rs-logo-with-background.png)
 
-[SVG](rs-logo-with-background.svg), [RawGit](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background.svg)
+[SVG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background.svg)
+[PNG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background.png)
+[PNG@4x](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background@4x.png)
 
 ## Colors
 
