@@ -30,6 +30,11 @@
 | ![](http://www.thecolorapi.com/id?format=svg&named=false&hex=19a1bc) | Secondary, #19a1bc |
 | ![](http://www.thecolorapi.com/id?format=svg&named=false&hex=073949) | Base, #073949 |
 
+## Fonts
+
+* Logo: [Bree Serif](https://fonts.google.com/specimen/Bree+Serif)
+* Body: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+
 ---
 
 Logo by [Andrey Okonetchnikov](https://github.com/okonet) and [Sara Vieira](https://github.com/SaraVieira).
