@@ -7,7 +7,7 @@
 ![Logo](rs-logo.png)
 
 [SVG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo.svg),
-[PNG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo.png)
+[PNG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo.png),
 [PNG@8x](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo@8x.png)
 
 ### Logo with text
