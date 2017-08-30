@@ -6,21 +6,26 @@
 
 ![Logo](rs-logo.png)
 
-[SVG](rs-logo.svg), [RawGit](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo.svg)
+[SVG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo.svg),
+[PNG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo.png)
+[PNG@8x](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo@8x.png)
 
 ### Logo with text
 
 ![Logo](rs-logo-with-type.png)
 
-[SVG](rs-logo-with-type.svg), [RawGit](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-type.svg)
+[SVG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-type.svg),
+[PNG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-type.png),
+[PNG@8x](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-type@8x.png)
 
 ### Logo in circle (stickers!)
 
 ![Logo with circle](rs-logo-with-background.png)
 
-[SVG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background.svg)
-[PNG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background.png)
-[PNG@4x](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background@4x.png)
+[SVG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background.svg),
+[PNG](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background.png),
+[PNG@4x](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background@4x.png),
+[PNG@8x](https://cdn.rawgit.com/styleguidist/brand/master/rs-logo-with-background@8x.png)
 
 ## Colors
 
